@@ -9,13 +9,10 @@ body, html {
 }
 
 .bg {
-  /* The image used */
   background-image: url("https://practicaltyping.com/wp-content/uploads/2019/02/suzuha.jpg");
 
-  /* Full height */
   height: 100%; 
 
-  /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
